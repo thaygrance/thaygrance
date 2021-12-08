@@ -1,12 +1,15 @@
 Olá Mundo!
 
-Sou a Thay, tenho 31 anos e estou em transição e carreira. Iniciei meus estudos em Programação Front-end em junho/2021. Desde então, tenho feito isso com muito entusiasmo e dedicação.
+Sou a Thay, tenho 31 anos e estou em transição e carreira. 
+Iniciei meus estudos em Programação Front-end em junho/2021. 
+Desde então, tenho feito isso com muito entusiasmo e dedicação.
 
-Atualmente estou aprofundando meus conhecimentos no React incluindo consumo de API's e TypeScript. Quero explorar todas as possibilidades e me tornar especialista nesse framework.
+Atualmente estou aprofundando meus conhecimentos no React incluindo consumo de API's e TypeScript. 
+Quero explorar as possibilidades e me tornar especialista nesse framework.
 
-Nos meus reposítórios públicos eu compartilho meus principais projetos, desde os mais simples de quando comecei a estudar HTML5 e CSS3 até minha última aplicação "Rick and Morty Favorites" na qual me dediquei utilizando diversar libraries para o React TS e usei bastante dos meus conhecimentos em CSS (gosto muito de estilização e pretendo dar seguimento aos meus estudos me especializando em UX e UI.
+Nos meus reposítórios públicos eu compartilho meus principais projetos, desde os mais simples de quando comecei a estudar HTML5 e CSS3 até minha última aplicação "Rick and Morty Favorites" na qual me dediquei utilizando diversas libraries para o React TS e usei bastante dos meus conhecimentos em CSS (gosto muito de estilização e pretendo dar seguimento aos meus estudos me especializando em UX e UI).
 
-Após esses seis meses de estudos, considero que atingi meus objetivos de aprendizagem e me sinto madura para iniciar minha primeira experiência de trabalho como Desenvolvedora Front-end.
+Após esses seis meses de estudos, considero que atingi meus objetivos de aprendizagem para esse período e me sinto madura para iniciar minha primeira experiência de trabalho como Desenvolvedora Front-end.
 
 Seja bem-vind@ ao meu perfil do GitHub, fique à vontade para aconpanhar minhas aplicações e entrar em contato =).
 
