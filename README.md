@@ -1,6 +1,6 @@
 Olá Mundo!
 
-Sou a Thay, tenho 31 anos e estou em transição e carreira. Iniciei meus estudos em Programação Front-end junho/2021 e, desde então, tenho feito isso com muito entusiasmo e dedicação.
+Sou a Thay, tenho 31 anos e estou em transição e carreira. Iniciei meus estudos em Programação Front-end em junho/2021. Desde então, tenho feito isso com muito entusiasmo e dedicação.
 
 Atualmente estou aprofundando meus conhecimentos no React incluindo consumo de API's e TypeScript. Quero explorar todas as possibilidades e me tornar especialista nesse framework.
 
