@@ -1,6 +1,6 @@
 Olá Mundo!
 
-Sou a Thay, tenho 31 anos e estou em transição e carreira. 
+Sou a Thay, tenho 31 anos e estou em transição de carreira. 
 Iniciei meus estudos em Programação Front-end em junho/2021. 
 Desde então, tenho feito isso com muito entusiasmo e dedicação.
 
