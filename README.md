@@ -1,15 +1,27 @@
 Olá Mundo! 
 
-Sou a Thay, tenho 32 anos e estou em transição de carreira. 
-Iniciei meus estudos em Programação Front-end em junho/2021. 
+Sou a Thay, tenho 32 anos e estou em transição de carreira para a área de tecnologia. 
+Iniciei meus estudos em Programação em junho de 2021 pelas stacks do front-end.
+
 Desde então, tenho feito isso com muito entusiasmo e dedicação.
 
-Atualmente estou aprofundando meus conhecimentos no React, incluindo consumo de API's e TypeScript. 
-Quero explorar as possibilidades e me tornar especialista nesse framework.
+Finalizei o ano de 2021 me aprofundando na programação com React JS.
 
-Nos meus reposítórios públicos eu compartilho meus principais projetos, desde os mais simples de quando comecei a estudar HTML5 e CSS3 até minha última aplicação "Rick and Morty Favorites" na qual me dediquei utilizando diversas libraries para o React TS e usei bastante dos meus conhecimentos em CSS (gosto muito de estilização e pretendo dar seguimento aos meus estudos me especializando em UX e UI).
+Em janeiro desse ano (2022) iniciei a Formação fullstack do Programa Desenvolve 2022 do Grupo Boticário. Também nesse ano comecei a cursar Engenharia de Software no curso EAD da UniCesumar. Estou gostando muito da área e quero me preparar para ser uma programadora que atenda às necessidades de grandes empresas e acredito que a faculdade vai me dar o embasamento necessário para isso. 
 
-Após esses meses de estudos, considero que atingi meus objetivos de aprendizagem para esse período e me sinto madura para iniciar minha primeira experiência de trabalho como Desenvolvedora Front-end.
+Nos meus reposítórios públicos eu compartilho meus principais projetos, desde os mais simples de quando comecei a estudar HTML5 e CSS3 até minha últimas aplicações com React JS e TS. Abaixo os links dos meus projetos que mais gosto:
+
+https://github.com/thaygrance/rickandmortyfavorites - link da página disponível no README
+
+https://github.com/thaygrance/healthy-food-app - link da página disponível no README
+
+https://github.com/thaygrance/rickandmortywiki - link da página disponível no README
+
+https://github.com/thaygrance/shoes-e-commerce
+
+
+Com os estudos e experiências desses quase um ano de estudos, me sinto preparada e estou buscando minha primeira oportunidade de trabalho com dev para colocar em prática o que já aprendi, aprender e me desenvolver muito mais.
+
 
 Seja bem-vind@ ao meu perfil do GitHub, fique à vontade para acompanhar minhas aplicações e entrar em contato =).
 
